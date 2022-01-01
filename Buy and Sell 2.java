@@ -14,7 +14,6 @@ public class Solution {
 }
 
 // Method 2
-
 class Solution {
   public int maxProfit(int[] prices) {
     int buy = prices[0], profit = 0;
